@@ -1,0 +1,1 @@
+netsh interface ip set address "test_lan" source=dhcp
