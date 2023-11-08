@@ -1,6 +1,6 @@
-# OS3.1
+# Automation OS3.1
 
-#### Introduction
+#### Description
 - This is an automation testing project using Python, Selenium, and Appium.
 - This automation testing project was established in 2017 and is primarily used for frontend web testing and mobile application testing of Newifi routers based on OpenWrt.
 - Using pytest-html to generate automated test reports.
